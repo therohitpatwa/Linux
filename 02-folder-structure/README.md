@@ -2,6 +2,14 @@
 
 ### Explanation of System Directories
 
+user@hostname:/#
+user@hostname:~$
+
+:  -Seprater
+/  -root dirctory
+#  -root user
+$  -normal user
+
 ### **Symbolic Links (Less Significant)**
 | Directory | Description |
 |-----------|-------------|
