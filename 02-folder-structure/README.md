@@ -3,12 +3,14 @@
 ### Explanation of System Directories
 
 user@hostname:/#
+
 user@hostname:~$
 
-:  -Seprater
-/  -root dirctory
-#  -root user
-$  -normal user
+
+- **`:`** This colon separates the user/host information from the current working directory.
+- **`/`** The forward slash represents the **root directory**, the top-level directory in the file system hierarchy.
+- **`#`** The pound sign indicates that the user is the **root user** (the superuser with administrative privileges).
+- **`$`** The dollar sign indicates that the user is a **normal, non-root user** with limited privileges.
 
 ### **Symbolic Links (Less Significant)**
 | Directory | Description |
