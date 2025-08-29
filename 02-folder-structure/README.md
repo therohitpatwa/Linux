@@ -7,6 +7,9 @@ user@hostname:/#
 user@hostname:~$
 
 
+~  -- /home/user
+
+
 - **`:`** This colon separates the user/host information from the current working directory.
 - **`/`** The forward slash represents the **root directory**, the top-level directory in the file system hierarchy.
 - **`#`** The pound sign indicates that the user is the **root user** (the superuser with administrative privileges).
