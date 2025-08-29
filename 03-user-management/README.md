@@ -120,3 +120,15 @@ Then add:
 ```bash
 username ALL=(ALL) NOPASSWD: /path/to/command
 ```
+
+
+
+
+
+ useradd user1
+ vim etc/passwd
+ passwd user1
+ cat etc/shadow
+ history
+ userdel user1
+ vim etc/passwd
