@@ -122,12 +122,10 @@ username ALL=(ALL) NOPASSWD: /path/to/command
 ```
 
 
-
-
-useradd user1
-vim etc/passwd
-passwd user1
-cat etc/shadow
-history
-userdel user1
-vim etc/passwd
+## Run Command in sequence to practice--
+**useradd user1**
+**vim etc/passwd**
+**passwd user1**
+**cat etc/shadow**
+**userdel user1**
+**vim etc/passwd**
