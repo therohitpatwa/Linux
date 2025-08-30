@@ -123,7 +123,7 @@ username ALL=(ALL) NOPASSWD: /path/to/command
 
 
 ## Run Command in sequence to practice--
-**useradd user1**
+- **useradd user1**
 - **vim /etc/passwd**
 - **passwd user1**
 - **cat /etc/shadow**
