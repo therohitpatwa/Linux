@@ -135,5 +135,6 @@ username ALL=(ALL) NOPASSWD: /path/to/command
 ### there is no way to restore password of user.
 
 ## SSH Client
-- **there is process called sshd running on the linux server this process allow a user  to the login at your machine on linux server it listen continuously to incomming ssh connection on port 22.
-- **you have to install SSH Client it comes with a package ssh.
+- **there is process called sshd running on the linux server this process allow a user  to the login at your machine on linux server it listen continuously to incomming ssh connection on port         22.**
+- **for login into your machine you have to install SSH Client it comes with a package ssh.**
+- **run command on host machine -- ssh user@HOST-IP**
