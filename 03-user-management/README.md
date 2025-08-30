@@ -123,9 +123,17 @@ username ALL=(ALL) NOPASSWD: /path/to/command
 
 
 ## Run Command in sequence to practice--
-- **useradd user1**
+- **useradd user1** -- It doesn't create home directory used in script writing.
 - **vim /etc/passwd**
 - **passwd user1**
 - **cat /etc/shadow**
 - **userdel user1**
 - **vim /etc/passwd**
+- **adduser user1** -- it also create user in home directory and store some user information.
+- **su user1**
+- **whomai**
+### there is no way to restore password of user.
+
+## SSH Client
+- **there is process called sshd running on the linux server this process allow a user  to the login at your machine on linux server it listen continuously to incomming ssh connection on port 22.
+- **you have to install SSH Client it comes with a package ssh.
