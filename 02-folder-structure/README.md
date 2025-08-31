@@ -5,7 +5,7 @@
 user@hostname:/#
 
 user@hostname:~$
-
+ 
 
 ~  -- /home/user
 
