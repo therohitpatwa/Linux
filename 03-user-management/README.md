@@ -7,7 +7,7 @@ Key files involved in user management:
 - `/etc/passwd` – Stores user account details.
 - `/etc/shadow` – Stores encrypted user passwords.
 - `/etc/group` – Stores group information.
-- `/etc/gshadow` – Stores secure group details.
+- `/etc/gshadow` – Stores secure group details. 
 
 ## Creating Users in Linux
 To create a new user in Linux, use:
