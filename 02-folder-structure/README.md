@@ -8,7 +8,7 @@ user@hostname:~$
  
 
 ~  -- /home/user
-
+ 
 
 - **`:`** This colon separates the user/host information from the current working directory.
 - **`/`** The forward slash represents the **root directory**, the top-level directory in the file system hierarchy.
