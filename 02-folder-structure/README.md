@@ -7,7 +7,7 @@ user@hostname:/#
 user@hostname:~$
  
 
-~  -- /home/user
+~  means /home/user
  
 
 - **`:`** This colon separates the user/host information from the current working directory.
