@@ -1,4 +1,4 @@
-# Ultimate Linux Guide
+# Linux
 
 
 Following topics are covered as part of the  documentation.
